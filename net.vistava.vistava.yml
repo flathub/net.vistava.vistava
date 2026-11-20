@@ -59,7 +59,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/bauermaximilian/Vistava
-        commit: 94851dba163ea7b00c5ef5e63f8ac287f623b6a1
+        commit: 6f9181d8550908a63fe617ce94b0fc1ea71ee4ad
         dest: main
       - npm-sources.json
       - nuget-sources.json
